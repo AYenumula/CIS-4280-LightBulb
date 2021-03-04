@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PROductive2</string>
+    <string name="title_activity_details">Details</string>
+    <string-array name="Importance">
+        <item>Select</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+</resources>
